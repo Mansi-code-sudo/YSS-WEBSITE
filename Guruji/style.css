@@ -1,0 +1,164 @@
+nav{
+  background-color:#FFD580;
+  padding:2px;
+  border:2px solid #ffac1c;
+}
+a:link{
+  text-decoration:none;
+  color:#C04000;
+  font-family:serif;
+}
+a:hover{
+  text-decoration:underline;
+}
+.nav{
+   background-color:#FFAC1C;
+
+}
+h1,h4{
+  text-align:center;
+}
+h1{
+  font-family:Brush Script MT, Brush Script Std, cursive;
+  color:white;
+}
+h4{
+  font-family:sans-serif;
+  color:white;
+}
+.photo{
+  display:flex;
+  justify-content:center;
+  align-self:center;
+}
+input[type="text"]{
+  padding:2px;
+  border: 2px solid #c04000;
+  margin:3px;
+  border-radius:5px;
+}
+.lan a:link{
+  text-decoration:none;
+  color:blue;
+}
+.lan a:hover{
+  text-decoration:underline;
+}
+.head{
+  font-family:Helvetica;
+  color:#c04000;
+  text-align:left;
+  text-indent:30%;
+}
+.one {
+  color:#E49B0F;
+  font-family:Lucida Sans;
+
+  margin-left:30%;
+}
+.guru{
+  display:float;
+  float:right;
+  margin-right:30%;
+}
+.un a:link{
+  text-decoration:none;
+  color:blue;
+  font-family:serif;
+  margin-left:30%;
+}
+.un a:hover{
+  text-decoration:underline;
+}
+.book{
+  display:float;
+  float:left;
+  margin-left:30%;
+}
+.um a:link{
+  text-decoration:none;
+  color:blue;
+  font-family:serif;
+  margin-right:30%;
+}
+.um a:hover{
+  text-decoration:underline;
+}
+.two {
+  color:#E49B0F;
+  font-family:Lucida Sans;
+
+  margin-right:30%;
+}
+.sub-head{
+  font-family:Helvetica;
+  color:#c04000;
+  text-align:right;
+  margin-right:30%;
+}
+.sub-sub{
+   font-family:Helvetica;
+  color:#c04000;
+  text-align:left;
+  text-indent:30%;
+}
+.app{
+  display:float;
+  float:right;
+  margin-right:30%;
+}
+.three{
+  color:#E49B0F;
+  font-family:Lucida Sans;
+  margin-left:30%;
+}
+.im a:link{
+  text-decoration:none;
+  color:blue;
+  font-family:serif;
+  margin-left:30%;
+}
+.im a:hover{
+  text-decoration:underline;
+}
+table{
+  background-color:#FFD580;
+  border-collapse:separate;
+   margin-left: auto;
+  margin-right: auto; 
+}
+th{
+   color: #c04000;
+}
+thead{
+  font-size:30px;
+}
+.foot{
+  background-color:#FFD580;
+}
+.footer{
+  background-color: #c04000;
+}
+.man{
+  color:white;
+  font-family:sans-serif;
+}
+input[type="submit"]{
+  background-color:#ffac1c;
+  color:white;
+  font-family:sans-serif;
+  border-radius:5px;
+  padding:8px;
+}
+.ell{
+  -webkit-clip-path: ellipse(37% 50% at 50% 50%);
+clip-path: ellipse(37% 50% at 50% 50%)
+   display:float;
+  float:right;
+  margin-right:30%;
+}
+.ym a:link{
+  text-decoration:none;
+  color:white;
+  
+}
